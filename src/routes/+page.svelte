@@ -1,7 +1,7 @@
 <main>
 	<header>
 		<aside>
-			<img src="/logo.svg" alt="" />
+			<img src="/logo.svg" alt="" width="192" height="257" />
 			<span />
 			<span />
 			<span />
