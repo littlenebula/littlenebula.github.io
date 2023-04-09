@@ -1,3 +1,3 @@
 # Little Nebula
 
-A placeholder page at [littlenebula.com](https://littlenebula.com)
+The code that powers [littlenebula.com](https://littleneubla.com).
